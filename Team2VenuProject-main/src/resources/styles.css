@@ -265,7 +265,10 @@ footer .footer_copyright {
   width: 50%;
   
   padding: 10px 0px;
+
+
 }
+
 
  .discount_wrapper .discount_porcentage {
     padding-right: 100px;
@@ -292,13 +295,15 @@ footer .footer_copyright {
     font-weight: 100;
     margin: 0px;
     color: #2c2c2c;
+    
 }
 
 .discount_wrapper .discount_description p {
     line-height: 30px;
     font-size: 18px;
     font-weight: 300;
-
+    font-family: 'Dancing Script', cursive;
+    
 }
 
 /* Float four columns side by side */
